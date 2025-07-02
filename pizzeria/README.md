@@ -43,7 +43,4 @@ Se utilizó la **metodología ágil Scrum**, adaptada a un entorno de aprendizaj
 
 ## ▶️ Ejecución del proyecto
 
-El proyecto se ejecuta desde el archivo principal:
-
-```bash
-main.py
+El proyecto se ejecuta directamente del sprint3
