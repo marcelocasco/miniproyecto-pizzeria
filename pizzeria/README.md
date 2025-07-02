@@ -8,11 +8,11 @@
 
 ## 👥 Integrantes del grupo
 
-Rolando Luis LLanes
-Escobar Fernandez Gonzalo Martin
-Gustavo Marcelo Casco
-Sebastian vargas
-Marta Graciela Socha
+-Rolando Luis LLanes
+-Escobar Fernandez Gonzalo Martin
+-Gustavo Marcelo Casco
+-Sebastian vargas
+-Marta Graciela Socha
 
 ## 🧾 Descripción del proyecto
 
